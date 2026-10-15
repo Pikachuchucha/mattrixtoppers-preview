@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:"/mattrixtoppers-preview/_next/static/chunks/38rkp3c1v0auq.js"
+3:"/mattrixtoppers-preview/_next/static/chunks/2un28efq3f0we.js"
+4:I[58562,["$2","$3"],"Chrome"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+22:"ViewportBoundary"
+23:I[97367,["$2","$3"],"$22"]
+24:"MetadataBoundary"
+25:I[97367,["$2","$3"],"$24"]
+26:"$Sreact.suspense"
+27:I[27201,["$2","$3"],"IconMark"]
+:HL["/mattrixtoppers-preview/_next/static/chunks/1ku6tdgzvw16g.css","style"]
+8:X
+b:X
+b:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","style",null,{"children":"\n      .prose-custom > * + * { margin-top: 1.25rem; }\n      .prose-custom h2 { font-family: var(--font-display); font-size: 1.6rem; line-height: 1.25; color: var(--color-ink); margin-top: 2.5rem; }\n      .prose-custom h3 { font-size: 1.15rem; font-weight: 600; color: var(--color-ink); margin-top: 2rem; }\n      .prose-custom p, .prose-custom li { color: var(--color-ink-soft); line-height: 1.75; }\n      .prose-custom ul, .prose-custom ol { padding-left: 1.5rem; display: flex; flex-direction: column; gap: 0.5rem; }\n      .prose-custom ul { list-style: disc; }\n      .prose-custom ol { list-style: decimal; }\n      .prose-custom strong { color: var(--color-ink); font-weight: 600; }\n      .prose-custom a { color: var(--color-pine-700); text-decoration: underline; text-underline-offset: 3px; }\n      .prose-custom a:hover { color: var(--color-pine-900); }\n    "}],["$","div",null,{"className":"py-16 sm:py-24","children":["$","div",null,{"className":"mx-auto w-full max-w-6xl px-6 max-w-3xl","children":[["$","p",null,{"className":"eyebrow text-pine-700 flex items-center gap-3 ","children":[["$","span",null,{"aria-hidden":"true","className":"inline-block h-px w-8 bg-pine-700"}],"Legal"]}],["$","h1",null,{"className":"font-display mt-5 text-4xl sm:text-5xl text-ink","children":"Privacy policy"}],["$","p",null,{"className":"mt-4 font-mono text-xs text-ink-faint","children":["Last updated: ","14 October 2026"]}],["$","div",null,{"className":"prose-custom mt-10","children":[["$","p",null,{"children":[["$","strong",null,{"children":"Draft v0.1 — pending review by a licensed legal professional."}]," ","This page describes, in plain language, how MattrixToppers (“we”, “us”) handles personal data. If any part of this page conflicts with applicable law, the law prevails."]}],["$","h2",null,{"children":"What we collect"}],["$","p",null,{"children":"We collect only what we need to run the service:"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Waitlist:"}]," your name, email address, student cohort, and anything you choose to tell us about your goals."]}],"$Ld","$Le"]}],"$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f"]}]]}]}]],null,"$L20"]}],"p":"$@21","v":null,"s":"$8"}}]]
+9:[["children",{"s":"privacy","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mattrixtoppers-preview/_next/static/chunks/1ku6tdgzvw16g.css","precedence":"next"}],["$","script","script-0",{"src":"/mattrixtoppers-preview/_next/static/chunks/38rkp3c1v0auq.js","async":true}],["$","script","script-1",{"src":"/mattrixtoppers-preview/_next/static/chunks/2un28efq3f0we.js","async":true}]],["$","html",null,{"lang":"en","className":"-60G4a_variable rpEG6W_variable CKbUBG_variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col bg-paper text-ink","children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L23",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L25",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$26",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Privacy policy · MattrixToppers"}],["$","meta","1",{"name":"description","content":"How MattrixToppers collects, uses, and protects your personal data."}],["$","link","2",{"rel":"icon","href":"/mattrixtoppers-preview/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L27","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@28","v":null,"s":"$8"}},"a":"$@29","u":"$@2a","b":"0eJgEUaKmT0LxmMq6POQE"}
+2b:I[97367,["$2","$3"],"OutletBoundary"]
+d:["$","li",null,{"children":[["$","strong",null,{"children":"Usage:"}]," basic, aggregated page-view counts. Analytics tracking is off by default and is only enabled with clear notice."]}]
+e:["$","li",null,{"children":[["$","strong",null,{"children":"Payments (when offered):"}]," transaction records required for receipts and accounting. Card and UPI credentials are processed by the payment provider — we never see or store them."]}]
+f:["$","h2",null,{"children":"What we never do"}]
+10:["$","ul",null,{"children":[["$","li",null,{"children":["We ",["$","strong",null,{"children":"never sell"}]," your personal data."]}],["$","li",null,{"children":"We never run behavioural tracking, personalisation, or targeted advertising against users under 18. This is a permanent rule, not a setting."}],["$","li",null,{"children":"We never buy or scrape personal data from third parties."}]]}]
+11:["$","h2",null,{"children":"Under-18 users and parental consent"}]
+12:["$","p",null,{"children":"If you are under 18, you may use MattrixToppers only with the consent of a parent or guardian. Where we ask for it, we record that consent and what it covered. Parents or guardians can ask us what data we hold about their child and can withdraw consent at any time (see “Your rights” below) — withdrawing consent deletes the child's account data."}]
+13:["$","h2",null,{"children":"How we use your data"}]
+14:["$","ul",null,{"children":[["$","li",null,{"children":"To operate the waitlist and tell you when tools open for you."}],["$","li",null,{"children":"To send the verified opportunity digest, if you opt in."}],["$","li",null,{"children":"To keep the service safe (abuse prevention, security logs)."}],["$","li",null,{"children":"To meet legal obligations (tax, accounting records)."}]]}]
+15:["$","p",null,{"children":"We do not use your data to train models or for advertising."}]
+16:["$","h2",null,{"children":"Sharing"}]
+17:["$","p",null,{"children":"We share data only with service providers who need it to run the service (hosting, email delivery, payment processing), under contracts that limit them to that purpose. We disclose data to authorities only when required by law."}]
+18:["$","h2",null,{"children":"Retention"}]
+19:["$","p",null,{"children":"Waitlist data is kept until you unsubscribe or ask us to delete it. Transaction records are kept as long as tax law requires. Security logs are kept for 12 months and then deleted."}]
+1a:["$","h2",null,{"children":"Your rights"}]
+1b:["$","p",null,{"children":["You can ask for a copy of your data, correct it, delete it, or withdraw consent at any time by writing to"," ",["$","a",null,{"href":"mailto:shivam@mattrixtoppers.com","children":"shivam@mattrixtoppers.com"}],". We respond within 30 days."]}]
+1c:["$","h2",null,{"children":"Grievance officer"}]
+1d:["$","p",null,{"children":["For complaints about how we handle personal data, contact our grievance officer at"," ",["$","a",null,{"href":"mailto:shivam@mattrixtoppers.com","children":"shivam@mattrixtoppers.com"}],". Details of the designated officer will be published here once appointed."]}]
+1e:["$","h2",null,{"children":"Changes"}]
+1f:["$","p",null,{"children":"If this policy changes materially, we will note the change and its date at the top of this page before it takes effect."}]
+20:["$","$L2b",null,{"children":["$","$26",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+8:300
+2c:null
+2a:true
+8:C
+29:0
+a:"$undefined"
+7:"$undefined"
+28:"$undefined"
+21:"$undefined"
